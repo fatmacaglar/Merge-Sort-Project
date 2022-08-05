@@ -2,7 +2,7 @@
 
 [16,21,11,8,12,22] -> Merge Sort
 
-Merge Sort steps:
+Merge Sort steps :
 
             [16,21,11,8,12,22]
             /               \
